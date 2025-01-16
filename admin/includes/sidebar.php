@@ -17,7 +17,7 @@
                     <div class="collapse" id="collapseUsers" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                         <nav class="sb-sidenav-menu-nested nav">
                             <a class="nav-link" href="users.php">All Users</a>
-                            <a class="nav-link" href="#">Add Users</a>
+                            <a class="nav-link" href="add_user.php">Add Users</a>
                         </nav>
                     </div>
                     <div class="sb-sidenav-menu-heading">Interface</div>
